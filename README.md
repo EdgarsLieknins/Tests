@@ -1,2 +1,5 @@
 # Tests
-man nav ko darit
+========
+
+testgithub id s repository for showing the bare minimums of github and how to maneuver, function, etc.
+
